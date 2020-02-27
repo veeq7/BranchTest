@@ -1,32 +1,32 @@
-A 	a 	a
-Ą 	ą 	ą; a z ogonkiem
-B 	b 	be
-C 	c 	ce
-Ć 	ć 	cie; ce z kreską
-D 	d 	de
-E 	e 	e
-Ę 	ę 	ę; e z ogonkiem
-F 	f 	ef
-G 	g 	gie
-H 	h 	ha
-I 	i 	i
-J 	j 	jot
-K 	k 	ka
-L 	l 	el
-Ł 	ł 	eł
-M 	m 	em
-N 	n 	en
-Ń 	ń 	eń; en z kreską
-O 	o 	o
-Ó 	ó 	o z kreską; o kreskowane; u zamknięte
-P 	p 	pe
-R 	r 	er
-S 	s 	es
-Ś 	ś 	eś; es z kreską
-T 	t 	te
-U 	u 	u; u otwarte
-W 	w 	wu
-Y 	y 	y; igrek
-Z 	z 	zet
-Ź 	ź 	ziet; zet z kreską
-Ż 	ż 	żet; zet z kropką
+A 	A 	A
+Ą 	Ą 	Ą; A Z OGONKIEM
+B 	B 	BE
+C 	C 	CE
+Ć 	Ć 	CIE; CE Z KRESKĄ
+D 	D 	DE
+E 	E 	E
+Ę 	Ę 	Ę; E Z OGONKIEM
+F 	F 	EF
+G 	G 	GIE
+H 	H 	HA
+I 	I 	I
+J 	J 	JOT
+K 	K 	KA
+L 	L 	EL
+Ł 	Ł 	EŁ
+M 	M 	EM
+N 	N 	EN
+Ń 	Ń 	EŃ; EN Z KRESKĄ
+O 	O 	O
+Ó 	Ó 	O Z KRESKĄ; O KRESKOWANE; U ZAMKNIĘTE
+P 	P 	PE
+R 	R 	ER
+S 	S 	ES
+Ś 	Ś 	EŚ; ES Z KRESKĄ
+T 	T 	TE
+U 	U 	U; U OTWARTE
+W 	W 	WU
+Y 	Y 	Y; IGREK
+Z 	Z 	ZET
+Ź 	Ź 	ZIET; ZET Z KRESKĄ
+Ż 	Ż 	ŻET; ZET Z KROPKĄ
