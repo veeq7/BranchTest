@@ -3,7 +3,6 @@ B 	b 	be
 C 	c 	ce
 D 	d 	de
 E 	e 	e
-
 F 	f 	ef
 G 	g 	gie
 H 	h 	ha
@@ -11,16 +10,12 @@ I 	i 	i
 J 	j 	jot
 K 	k 	ka
 L 	l 	el
-
 M 	m 	em
 N 	n 	en
-
 O 	o 	o
-
 P 	p 	pe
 R 	r 	er
 S 	s 	es
-
 T 	t 	te
 U 	u 	u; u otwarte
 W 	w 	wu
