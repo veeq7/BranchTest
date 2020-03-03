@@ -4,3 +4,6 @@ Pytanie: Ile jabłek zostało Mariuszkowi?
 Myślicie, że dwa?
 Guzik prawda! Nie wiadomo przecież, ile jabłek miał Mariuszek, zanim dostał 5 jabłek.
 Morał: Zawsze zerujcie zmienne!
+
+- I przestań pisać z capslockiem!
+- NIE PISZĘ Z CAPSLOCKIEM!!! JESTEM TAK NA CIEBIE ZŁA, ŻE PISZĘ Z SHIFTEM!!!!
