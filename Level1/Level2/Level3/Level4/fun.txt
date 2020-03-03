@@ -1,0 +1,6 @@
+Zagadka programistów.
+Mariuszek dostał pięć jabłek. trzy z nich zjadł.
+Pytanie: Ile jabłek zostało Mariuszkowi?
+Myślicie, że dwa?
+Guzik prawda! Nie wiadomo przecież, ile jabłek miał Mariuszek, zanim dostał 5 jabłek.
+Morał: Zawsze zerujcie zmienne!
